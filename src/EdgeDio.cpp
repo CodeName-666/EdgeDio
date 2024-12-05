@@ -7,10 +7,8 @@
 
 #include "EdgeDio.h"
 
-
-EdgeDio::EdgeDio(Dio_t dio, Mode_t mode) : Dio(dio,mode)
+EdgeDio::EdgeDio(Dio_t dio, Mode_t mode) : Dio(dio, mode)
 {
-   
 }
 
 EdgeDio::~EdgeDio()
